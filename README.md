@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning a variety of programming languages.
 - 💞️ I’m looking to collaborate on anything that'll help me learn.
-- 📫 How to reach me ...
+- 📫 How to reach me brandon.coates17@outlook.com
 
 <!---
 brandonmcoates/brandonmcoates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
